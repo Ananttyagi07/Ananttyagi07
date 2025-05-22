@@ -7,7 +7,8 @@
 
 <img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
-I am a **Computer Science** student, currently halfway through my degree🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
+I am a **Computer Science** student, currently halfway through my degree
+|🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
 
 Hey, I’m building Linux Anant — an AI-first secure Linux distro for devs, hackers & power users. Offline LLMs. Whisper voice control. AppArmor. Encrypted vaults. Just boot and command.
 
