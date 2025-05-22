@@ -7,13 +7,22 @@
 
 <img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
-- 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+I am a **Computer Science** student, currently halfway through my degree🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
+
+Hey, I’m building Linux Anant — an AI-first secure Linux distro for devs, hackers & power users. Offline LLMs. Whisper voice control. AppArmor. Encrypted vaults. Just boot and command.
+
+Currently grinding:
+
+🧰 CNCF DevOps (K8s, ArgoCD, Trivy, Kyverno)
+
+🔐 CTFs & security automation
+
+🦀 Rust + 🌐 Web3 (Solana Superteam soon)
+
+📚 Always learning. 🚀 Always shipping.
+Let’s rewire how devs build, break, and secure systems.
+
+→ linuxanant.dev | twitter.com/yourhandle | linkedin.com/in/yourname
 - 📫 Reach out to me at: <a href="tyagiaadi368@gmail.com">tyagiaadi368@gmail.com</a>
 <br>
 
