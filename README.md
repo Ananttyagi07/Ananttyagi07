@@ -1,10 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">ALX-13</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Anant">Anant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
 <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMwZmw2bWRqbDU3Z2NxNHZscjk5YXZ4engyc3JhNW1qbWIzazk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif;***About me***
 
-<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+<img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
