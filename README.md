@@ -20,6 +20,11 @@ Currently grinding:
 
 🦀 Rust + 🌐 Web3 (Solana Superteam soon)
 
+🧠 Training models. 🔧 Quantizing them. 🚀 Running them on GPUs.
+I work with PyTorch (completed), TensorFlow (learning), and optimize models for low-resource environments.
+All this powers Linux Anant — an AI-first, developer OS I'm building.
+I like code that ships and models that run fast.
+
 📚 Always learning. 🚀 Always shipping.
 Let’s rewire how devs build, break, and secure systems.
 
@@ -30,7 +35,7 @@ Let’s rewire how devs build, break, and secure systems.
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Ananttyagi07&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -51,7 +56,7 @@ Let’s rewire how devs build, break, and secure systems.
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 <img align="right" width=310px alt="Unicorn" src="https://giphy.com/gifs/hackers-movie-hacking-13AN8X7jBIm15m?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fusersnap.com%2F"/>
