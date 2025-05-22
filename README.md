@@ -28,7 +28,7 @@ I like code that ships and models that run fast.
 📚 Always learning. 🚀 Always shipping.
 Let’s rewire how devs build, break, and secure systems.
 
-→ linuxanant.dev | twitter.com/yourhandle | linkedin.com/in/yourname
+→ linuxanant.dev | X.com/https://x.com/settings/account?lang=en | linkedin.com/in/https://www.linkedin.com/in/anant-tyagi-17b89131a/
 - 📫 Reach out to me at: <a href="tyagiaadi368@gmail.com">tyagiaadi368@gmail.com</a>
 <br>
 
@@ -42,11 +42,10 @@ Let’s rewire how devs build, break, and secure systems.
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:tyagiaadi368@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/leonm_br"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
- <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
+  <a href="https://www.linkedin.com/in/anant-tyagi-17b89131a/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/https:/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/https://x.com/tyagiaadi368"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -56,7 +55,7 @@ Let’s rewire how devs build, break, and secure systems.
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 <img align="right" width=310px alt="Unicorn" src="https://media.tenor.com/R6SlBBQ1I0YAAAAM/ascii-pepe-ascii.gif"/>
