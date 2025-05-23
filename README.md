@@ -105,14 +105,14 @@ Let’s rewire how devs build, break, and secure systems.
       <h3 align="center">ANANT</h3>
       <div align="center">
         <a href="https://github.com/Ananttyagi07/Anant-tyagi" target="_blank">
-          <img src="https://github.com/Anant/ANANT/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+          <img src="https://github.com/Anant/ANANT/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="Anant-Tyagi">
         </a>
         <p>
-          <a href="https://github.com/Ananttyagi07/El-Molino" target="_blank">
+          <a href="https://github.com/Ananttyagi07/Image-Error!!" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>ANANT</strong> es un juego desarrollado en <strong>C</strong> CURRENTLY WORKING ON IT. 
+        <p><strong>Linux-ANANT</strong> First fully integrated Ai OSstrong></strong> CURRENTLY WORKING ON IT. 
 STAY TUNED! </p>
       </div>
     </td>
