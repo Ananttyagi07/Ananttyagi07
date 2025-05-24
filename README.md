@@ -58,7 +58,7 @@ Let’s rewire how devs build, break, and secure systems.
 ![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=410px height=500px alt="Unicorn" src="https://oyster.ignimgs.com/wordpress/stg.ign.com/2014/03/stewie-timetravle.gif"/>
+<img align="right" width=410px height=500px alt="Unicorn" src="https://tenor.com/Qm2H.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
