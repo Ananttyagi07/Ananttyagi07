@@ -34,7 +34,7 @@ Let’s rewire how devs build, break, and secure systems.
 
 <!-- Profile Trophies -->
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/Ananttyagi07/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Ananttyagi07&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
