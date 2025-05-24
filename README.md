@@ -51,14 +51,14 @@ Let’s rewire how devs build, break, and secure systems.
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR5YXJwZjRuemt4azgzYjJ6ZGR0NGxpdHg3eGttaXRnZzh2MTZqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR5YXJwZjRuemt4azgzYjJ6ZGR0NGxpdHg3eGttaXRnZzh2MTZqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
+<img align="right" width=410px height=500px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR5YXJwZjRuemt4azgzYjJ6ZGR0NGxpdHg3eGttaXRnZzh2MTZqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
