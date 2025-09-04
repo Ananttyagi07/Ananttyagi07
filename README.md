@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMwZmw2bWRqbDU3Z2NxNHZscjk5YXZ4engyc3JhNW1qbWIzazk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
 
 
-<img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+<img align="right" width=250px alt="Unicorn" src="https://i.gifer.com/1ANf.gif"/>
 
 I am a **Computer Science** student, currently halfway through my degree
 |🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
