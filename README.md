@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/Anant">Anant</a> <img src="https://ibb.co/Q3mFptJb" width="35"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Anant">Anant</a> <img src="https://i.gifer.com/4A9v.gif" width="35"></h1>
 <br>
 
   <img src="https://i.gifer.com/5RTG.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
