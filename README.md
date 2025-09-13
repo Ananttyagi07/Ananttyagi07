@@ -5,7 +5,7 @@
   <img src="https://i.gifer.com/5RTG.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
 
 
-<img align="right" width=450px alt="Unicorn" src="https://media.tenor.com/NzrqQHFBVz8AAAAm/kitty-transparent.webp"/>
+<img align="right" width=450px alt="Unicorn" src="https://media1.tenor.com/m/YZLSjxfRwwIAAAAC/scarecrow-creepy-smile.gif"/>
 
 I am a **Computer Science** student, currently halfway through my degree
 |🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
