@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/DLDLeTCEEgoAAAAi/cute-angry.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
 
 
-<img align="right" width=450px alt="Unicorn" src="https://media1.tenor.com/m/FYqNXwMPZIMAAAAC/you-wanna-piece-of-me-pop.gif"/>
+<img align="right" width=450px alt="Unicorn" src="https://media.tenor.com/DLDLeTCEEgoAAAAi/cute-angry.gif"/>
 
 I am a **Computer Science** student, currently halfway through my degree
 |🔧 Builder | 🐧 DevOps Kid | 🦀 Rustling through Cloud Native Infra
