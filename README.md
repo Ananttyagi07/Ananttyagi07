@@ -2,7 +2,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/Anant">Anant</a> <img src="https://i.gifer.com/4A9v.gif" width="35"></h1>
 <br>
 
-  <img src="https://media.tenor.com/DLDLeTCEEgoAAAAi/cute-angry.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
+  <img src="https://media1.tenor.com/m/pjBtpAFSnmgAAAAC/peach-goma-peach-and-goma.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
 
 
 <img align="right" width=450px alt="Unicorn" src="https://media.tenor.com/DLDLeTCEEgoAAAAi/cute-angry.gif"/>
