@@ -103,7 +103,13 @@ Let’s rewire how devs build, break, and secure systems.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
-<br>
+<br> 
+
+### 📅 Days of Code Streak (Automated)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%"/>
+</p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
