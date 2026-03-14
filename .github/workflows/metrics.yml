@@ -1,0 +1,19 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: Ananttyagi07
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_achievements: yes
