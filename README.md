@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <p align="center">
   <img src="https://media.tenor.com/seYiA-5p3ZYAAAAi/rikti-bugga-rikta-bugga.gif" width="220">
