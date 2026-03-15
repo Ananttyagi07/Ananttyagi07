@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/seYiA-5p3ZYAAAAi/rikti-bugga-rikta-bugga.gif" width="220">
+  <img src="https://media.tenor.com/seYiA-5p3ZYAAAAi/rikti-bugga-rikta-bugga.gif" width="320">
 </p>
 
 <h1 align="center">⚡ Hi, I'm Anant Tyagi</h1>
