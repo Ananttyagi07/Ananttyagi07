@@ -86,12 +86,10 @@ No activity tracked
 
 ---
 
-# 🏙️ GitHub Skyline (Contribution City)
+# 🏙️ GitHub Skyline (3D Contribution City)
 
 <p align="center">
-  <a href="https://skyline.github.com/Ananttyagi07/2025">
-    <img src="https://github.com/gh-skyline/gh-skyline/blob/master/generated/Ananttyagi07/skyline.png" alt="GitHub Skyline 3D">
-  </a>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Skyline">
 </p>
 
 ---
