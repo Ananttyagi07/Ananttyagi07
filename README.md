@@ -90,14 +90,6 @@ Observability Stack        ✅ Monitoring
 
 ---
 
-# 🔧 What I'm Building
-
-```shell
-📦 Kubesimplify       → AI-native K8s env • NLP → Bash • llama.cpp • Ongoing
-☁️  Cloud-Native Infra → K8s + Terraform + AWS + Prometheus/Grafana/Loki
-🏗️  Multi-Tenant ERP  → Django REST + React + PostgreSQL • 40+ modules
-```
-
 # 🎯 Current Focus
 
 ```text
