@@ -165,7 +165,7 @@ graph TD;
     TF -->|Infra| AWS[AWS EC2 / VPC / S3];
     Obs -->|Alerts| Dev;
 
-    style Dev fill:#f9f,stroke:#333,stroke-width:2px;
+    style Dev fill:#f9f,stroke:#333,stroke-width:2px,color:#000;
     style GH fill:#24292e,stroke:#fff,stroke-width:2px,color:#fff;
     style GHA fill:#2088FF,stroke:#fff,stroke-width:2px,color:#fff;
     style Docker fill:#2496ED,stroke:#fff,stroke-width:2px,color:#fff;
