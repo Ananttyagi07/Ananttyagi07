@@ -90,27 +90,22 @@ Observability Stack        ✅ Monitoring
 
 ---
 
-# 💼 Experience
+# 🔧 What I'm Building
 
-### 🏢 Dyota Infotech — Software Engineer Intern *(Oct 2025 – Jan 2026)*
-- Architected a **production-grade multi-tenant ERP system** with 40+ modules, granular ACL/RBAC, and strict tenant isolation.
-- Built backend services using **Django REST Framework** with a scalable **PostgreSQL** schema for multi-tenant workloads.
-- Engineered the frontend using **React.js**, managing the project from MVP to QA and deployment planning.
+```shell
+📦 Kubesimplify       → AI-native K8s env • NLP → Bash • llama.cpp • Ongoing
+☁️  Cloud-Native Infra → K8s + Terraform + AWS + Prometheus/Grafana/Loki
+🏗️  Multi-Tenant ERP  → Django REST + React + PostgreSQL • 40+ modules
+```
 
-### 🏢 Innoworq — DevOps Intern *(Jun 2024 – Oct 2024)*
-- Provisioned and managed cloud infrastructure on **AWS EC2** for development and testing environments.
-- Automated **CI/CD pipelines** using Jenkins and GitHub Actions, reducing manual deployment effort by ~60%.
-- Performed **Linux administration** and shell scripting on Ubuntu servers for routine operational task automation.
+# 🎯 Current Focus
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏗️ **Multi-Tenant ERP System** | Production-grade ERP with 40+ modules (billing, inventory, analytics), RBAC/ACL, and tenant isolation | Django, React, PostgreSQL |
-| 🤖 **Kubesimplify** | AI-native Kubernetes environment with AI-Shell for translating natural language to Bash workflows | Python, Shell, llama.cpp, Linux |
-| ☁️ **Cloud-Native DevOps Platform** | Microservices on K8s with Ingress routing, Terraform IaC, and full observability stack | AWS, Kubernetes, Terraform, Prometheus, Grafana, Loki |
+```text
+→ Reliability Engineering & Distributed Systems
+→ GitOps with ArgoCD
+→ AI-integrated DevOps tooling (Kubesimplify)
+→ Scalable Cloud Infrastructure on AWS
+```
 
 ---
 
