@@ -19,4 +19,3 @@ jobs:
           base: header, activity, community
           plugin_languages: yes
           plugin_stars: yes
-          plugin_achievements: yes
