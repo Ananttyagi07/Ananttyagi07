@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <img src="https://media.tenor.com/LPOZd_ELgvcAAAAi/cat-dance-c.gif" width="150">
+  <img src="https://www.hiclipart.com/free-transparent-background-png-clipart-dfguu" width="150">
 </p>
 
 <h1 align="center">⚡ Hi, I'm Anant Tyagi</h1>
