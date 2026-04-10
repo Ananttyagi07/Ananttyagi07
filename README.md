@@ -112,8 +112,10 @@ Observability Stack        ✅ Monitoring
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min                 ████████████████████████▓   98.93 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Markdown     41 mins               ████████████████████████░   96.08 %
+JavaScript   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
