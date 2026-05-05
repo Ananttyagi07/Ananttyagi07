@@ -112,10 +112,11 @@ Observability Stack        ✅ Monitoring
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   24 mins               ██████████▓░░░░░░░░░░░░░░   42.61 %
-Python     17 mins               ███████▓░░░░░░░░░░░░░░░░░   30.94 %
-Bash       15 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Markdown     24 mins               ████████████▓░░░░░░░░░░░░   50.67 %
+Bash         11 mins               ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+Python       9 mins                █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+JSON         2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
