@@ -112,10 +112,8 @@ Observability Stack        ✅ Monitoring
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 min                 ███████████████████▒░░░░░   77.10 %
-Markdown     0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Python       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON         34 mins               ██████████████████▒░░░░░░   72.78 %
+Git Config   12 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
 ```
 
 <!--END_SECTION:waka-->
