@@ -112,11 +112,11 @@ Observability Stack        ✅ Monitoring
 <!--START_SECTION:waka-->
 
 ```txt
-Other      5 hrs 43 mins         ██████████▓░░░░░░░░░░░░░░   42.27 %
-Markdown   5 hrs 15 mins         █████████▓░░░░░░░░░░░░░░░   38.80 %
-TeX        1 hr 13 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Python     58 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-HTML       16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Other      7 hrs 18 mins         ██████████████▒░░░░░░░░░░   57.42 %
+Markdown   3 hrs 27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
+TeX        1 hr 13 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Python     37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Go         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
