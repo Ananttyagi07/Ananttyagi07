@@ -99,9 +99,7 @@ Currently contributing to [**cilium/ebpf**](https://github.com/cilium/ebpf) — 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 11 mins          ████████████████░░░░░░░░░   64.08 %
-Other      31 mins               ███████░░░░░░░░░░░░░░░░░░   28.30 %
-HTML       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Other   6 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
