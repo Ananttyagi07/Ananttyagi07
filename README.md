@@ -56,6 +56,18 @@ Observability Stack        ✅ Monitoring
 
 ---
 
+# 🧬 Compiled Bytecode, Rendered as Art
+
+Not a template, not a badge service — this is real. A script disassembles the actual compiled `bpf/flow_cgroup.o` from Chidrixx (real basic blocks, real jump instructions, real per-CPU BPF map access) and renders its control-flow graph as generative art: node position from a golden-angle spiral seeded by real program order, size from real instruction count, color from a hash of real instruction content. Blue spiral = the real egress program, amber = the real ingress program.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ananttyagi07/chidrixx/master/assets/bpf-art.svg" alt="Generative art from real compiled eBPF bytecode" width="100%">
+</p>
+
+[→ how it's generated](https://github.com/Ananttyagi07/chidrixx/blob/master/tools/bpf-art/gen_bpf_art.py)
+
+---
+
 # 🔭 Flagship Project — Chidrixx
 
 An eBPF-based Kubernetes network-cost-attribution agent: attributes live traffic to workloads across 8 network-path classes, verified byte-accurate against real `iperf3` transfers (0.156% delta). Multi-tenant Go control plane built from scratch, React + TypeScript dashboard, 189 backend tests + 27 Playwright E2E tests in a 7-job CI pipeline.
