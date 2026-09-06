@@ -22,7 +22,8 @@ Containers  : Docker, Kubernetes
 IaC         : Terraform
 CI/CD       : GitHub Actions, Jenkins, ArgoCD
 Monitoring  : Prometheus, Grafana, Loki
-Languages   : Python, Go (Basic), C
+Kernel      : eBPF (cgroup_skb, per-CPU BPF maps)
+Languages   : Python, Go, C
 Status      : Building scalable, reliable systems
 Location    : Ghaziabad, India
 ```
@@ -55,6 +56,22 @@ Observability Stack        ✅ Monitoring
 
 ---
 
+# 🔭 Flagship Project — Chidrixx
+
+An eBPF-based Kubernetes network-cost-attribution agent: attributes live traffic to workloads across 8 network-path classes, verified byte-accurate against real `iperf3` transfers (0.156% delta). Multi-tenant Go control plane built from scratch, React + TypeScript dashboard, 189 backend tests + 27 Playwright E2E tests in a 7-job CI pipeline.
+
+Published under Apache-2.0 — Helm charts and container images public on [GHCR](https://github.com/Ananttyagi07/chidrixx/pkgs/container/charts%2Fchidrixx-controlplane), installable with one command, no auth required.
+
+**[→ github.com/Ananttyagi07/chidrixx](https://github.com/Ananttyagi07/chidrixx)**
+
+---
+
+# 🌱 Open Source
+
+Currently contributing to [**cilium/ebpf**](https://github.com/cilium/ebpf) — the Go library Chidrixx is built on. [PR #2097](https://github.com/cilium/ebpf/pull/2097): converting `Program.Benchmark` to a `testing.B`-idiomatic API.
+
+---
+
 # ⚙️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
@@ -75,6 +92,8 @@ Observability Stack        ✅ Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-yellow?style=for-the-badge&logo=grafana&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-black?style=for-the-badge&logo=linux&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
 
 ### 💻 Languages & Development
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -93,9 +112,9 @@ Observability Stack        ✅ Monitoring
 # 🎯 Current Focus
 
 ```text
+→ eBPF-based Kubernetes observability (Chidrixx)
 → Reliability Engineering & Distributed Systems
-→ GitOps with ArgoCD
-→ AI-integrated DevOps tooling (Kubesimplify)
+→ Contributing to cilium/ebpf
 → Scalable Cloud Infrastructure on AWS
 ```
 
@@ -182,10 +201,10 @@ graph TD;
 # 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:tyagiaadi368@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tyagiaadi368@gmail.com-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:tyagianant65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tyagianant65@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/ananttyagi07">
+  <a href="https://linkedin.com/in/anant-tyagi7">
     <img src="https://img.shields.io/badge/LinkedIn-Anant%20Tyagi-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/Ananttyagi07">
