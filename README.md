@@ -1,49 +1,5 @@
-<p align="center">
-  <img src="https://media.tenor.com/seYiA-5p3ZYAAAAi/rikti-bugga-rikta-bugga.gif" width="320">
-</p>
-
 <h1 align="center">⚡ Hi, I'm Anant Tyagi</h1>
 <h3 align="center">🚀 DevOps & Infrastructure Engineer | Cloud-Native Builder | Reliability Enthusiast</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Infrastructure+Engineer;Kubernetes+%7C+Docker+%7C+Terraform;AWS+Certified+Solutions+Architect;CI/CD+%7C+GitOps+%7C+ArgoCD;Reliability+%26+Distributed+Systems&center=true&width=500&height=50">
-</p>
-
----
-
-# 🧠 Terminal Profile
-
-```shell
-anant@devops-engineer
-──────────────────────────────────────
-OS          : Linux (Ubuntu)
-Cloud       : AWS (EC2, VPC, S3)
-Containers  : Docker, Kubernetes
-IaC         : Terraform
-CI/CD       : GitHub Actions, Jenkins, ArgoCD
-Monitoring  : Prometheus, Grafana, Loki
-Kernel      : eBPF (cgroup_skb, per-CPU BPF maps)
-Languages   : Python, Go, C
-Status      : Building scalable, reliable systems
-Location    : Ghaziabad, India
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Build-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Validated-purple?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-```text
-System Status
-──────────────────────────────────────
-Terraform Infrastructure   ✅ Online
-CI/CD Pipeline             ✅ Running
-Docker Registry            ✅ Active
-Kubernetes Cluster         ⚡ Scaling
-Observability Stack        ✅ Monitoring
-```
 
 ---
 
@@ -135,7 +91,7 @@ Currently contributing to [**cilium/ebpf**](https://github.com/cilium/ebpf) — 
 # 📊 Dynamic DevOps Dashboard
 
 <p align="center">
-  <img src="https://github.com/Ananttyagi07/Ananttyagi07/blob/main/github-metrics.svg" alt="DevOps Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/Ananttyagi07/Ananttyagi07/main/github-metrics.svg" alt="DevOps Metrics" width="100%">
 </p>
 
 # ⏱️ Coding Tracker
@@ -185,31 +141,6 @@ HTML       8 mins                ██░░░░░░░░░░░░░�
 
 ---
 
-# 🛰 DevOps Architecture
-
-```mermaid
-graph TD;
-    Dev[Developer] -->|Push Code| GH[GitHub];
-    GH -->|Trigger| GHA[GitHub Actions / ArgoCD];
-    GHA -->|Build & Push| Docker[Docker Registry];
-    Docker -->|Deploy| K8s[Kubernetes Cluster];
-    K8s -->|Provision| TF[Terraform / AWS];
-    K8s -->|Metrics & Logs| Obs[Prometheus + Grafana + Loki];
-    TF -->|Infra| AWS[AWS EC2 / VPC / S3];
-    Obs -->|Alerts| Dev;
-
-    style Dev fill:#f9f,stroke:#333,stroke-width:2px,color:#000;
-    style GH fill:#24292e,stroke:#fff,stroke-width:2px,color:#fff;
-    style GHA fill:#2088FF,stroke:#fff,stroke-width:2px,color:#fff;
-    style Docker fill:#2496ED,stroke:#fff,stroke-width:2px,color:#fff;
-    style K8s fill:#326CE5,stroke:#fff,stroke-width:2px,color:#fff;
-    style TF fill:#5835CC,stroke:#fff,stroke-width:2px,color:#fff;
-    style AWS fill:#FF9900,stroke:#fff,stroke-width:2px,color:#fff;
-    style Obs fill:#E6522C,stroke:#fff,stroke-width:2px,color:#fff;
-```
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
@@ -229,5 +160,3 @@ graph TD;
 <div align="center">
   <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=Ananttyagi07&label=Profile%20Views&color=blue&style=flat">
 </div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
