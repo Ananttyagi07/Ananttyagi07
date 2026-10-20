@@ -1,5 +1,6 @@
 <h1 align="center">⚡ Hi, I'm Anant Tyagi</h1>
 <h3 align="center">🚀 DevOps & Infrastructure Engineer | Cloud-Native Builder | Reliability Enthusiast</h3>
+<h2 align="center"> linkedin ----> www.linkedin.com/in/anant-tyagi-sre  </h2>
 
 ---
 
